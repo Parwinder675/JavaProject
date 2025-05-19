@@ -9,7 +9,7 @@ public class AnotherExample {
 	}
 	// make sure it return value type is int
 	public int addTwoNumbers(int a, int b) {
-		return c;
+		return c = a+b;
 		
 	}
 	// make sure that returning value will be String

@@ -3,8 +3,7 @@ package inheritance;
 public class Electronics {
 	
 	public void Brand() {
-System.out.println("Electronics has multiple brands")	;
-	
+		System.out.println("Electronics has multiple brands");
 
 	}
 	public  void power() {
